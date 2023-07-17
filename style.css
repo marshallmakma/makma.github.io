@@ -1,0 +1,26 @@
+body{
+    font-family: roboto;
+}
+@media screen and (max-width: 768px) and (min-width: 700px){
+    body{
+        background-color: aquamarine;
+    }
+}
+@media only screen and (max-width: 500px){
+    body{
+        background-color: rgb(253, 0, 97);
+    }
+}
+.hero{
+    padding-top: 6rem;
+    background-color: #e8e8e8;
+}
+.jumbotron
+{
+    padding-top: 6rem;
+    background-color: aliceblue;
+    /* padding-bottom: 6rem; */
+}
+.halo{
+    background-color: #0099ff;
+}
